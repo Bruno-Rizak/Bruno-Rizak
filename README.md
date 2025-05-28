@@ -1,14 +1,7 @@
 ### Hi, I'm Bruno RIzak
 
-
-
 - 🔭 I’m currently working on full stack
 - 🌱 I’m currently learning back-and
- 
-
-
-
-
 
 <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
@@ -23,6 +16,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
