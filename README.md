@@ -26,6 +26,6 @@
   <a href="https://www.instagram.com/bruno_rizak/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunorizak@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-rizak-a5a406154/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://w.app/dKeEmf"> <img src="https://wa.me/5551992236980?text=Ol%C3%A1!%20Tudo%20bem?%0A%0AEncontrei%20seu%20contato%20atrav%C3%A9s%20do%20GitHub%20e%20gostaria%20de%20solicitar%20um%20or%C3%A7amento%20para%20um%20projeto.%20Voc%C3%AA%20poderia%20me%20informar%20a%20melhor%20forma%20de%20prosseguir?%0A%0ADesde%20j%C3%A1,%20agrade%C3%A7o%20pela%20aten%C3%A7%C3%A3o!" target="_blank"></a>
+  <a href = "https://wa.me/5551992236980?text=Ol%C3%A1!%20Tudo%20bem?%0A%0AEncontrei%20seu%20contato%20atrav%C3%A9s%20do%20GitHub%20e%20gostaria%20de%20solicitar%20um%20or%C3%A7amento%20para%20um%20projeto.%20Voc%C3%AA%20poderia%20me%20informar%20a%20melhor%20forma%20de%20prosseguir?%0A%0ADesde%20j%C3%A1,%20agrade%C3%A7o%20pela%20aten%C3%A7%C3%A3o!"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
 </div>
